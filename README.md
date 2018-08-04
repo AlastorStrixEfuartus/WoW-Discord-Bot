@@ -1,4 +1,4 @@
-# WoW-Bot
+# WoW-Discord-Bot
 ## Changing Database credentials :
 Go to MySqlDatabaseHandler.cs and edit the following strings : 
 - CharConnString
